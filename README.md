@@ -1,4 +1,5 @@
 # Todo App
+- Built using React JS only
 
 ### Project Status  ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 - Completed
@@ -12,10 +13,6 @@ A React App for Adding/Updating/View Tasks/Todo of a person.
 ### Tools used ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 - Hooks(useState)
 - JS programming
-
-Built using React Js.
-Performed CRUD operations using React only.
-Made use of Hooks and JS programming.
 
 
 # Getting Started with Create React App
