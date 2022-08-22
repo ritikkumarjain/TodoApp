@@ -1,3 +1,11 @@
+Todo App
+- Status: Completed
+
+Built using React Js.
+Performed CRUD operations using React only.
+Made use of Hooks and JS programming.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
