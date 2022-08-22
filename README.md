@@ -1,7 +1,13 @@
 # Todo App
 - Built using React JS only
 
-### Project Status  ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
+### Demo ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
+
+https://user-images.githubusercontent.com/69076815/185849175-a470d597-dfdb-4aad-97fb-7c84efb0277b.mp4
+
+
+
+### Project Status ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 - Completed
 
 ### Project Members ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
